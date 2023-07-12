@@ -1,6 +1,6 @@
 # Tugas Pemograman Web 2
 ## Profil
-| #               | Biodata           |
+|                 | Biodata           |
 | --------------- | ----------------- |
 | **Nama**        | Alwan Luthfi      |
 | **NIM**         | 312110296         |
